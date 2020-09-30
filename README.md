@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**JoaoJHdaS102132/JoaoJHdaS102132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### My name is: João Henrique;
 
-Here are some ideas to get you started:
+#### I 'm from Marília - SP - Brazil;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### I 'm 16 years old;
+
+#### I study ADS at ETEC _Antônio Devisate_;
+
+#### My Hoobies:
+
+* Listen to Music;
+* Play the Guitar 🎸;
+* Watch Football and Basketball ⚽🏀;
+* Playing Eletrônic Games 🎮🕹.
+
+(☞ﾟヮﾟ)☞  Thanks for whatching so far!!  ☜(ﾟヮﾟ☜)
